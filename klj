@@ -1,0 +1,39 @@
+[33mcommit 66fd5de1b5f41d55b80c46d61edff9e62f9841a6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Artur <akoczaja@gmail.com>
+Date:   Sat Dec 1 10:40:40 2018 +0100
+
+    Revert "Revert "piata zmiana""
+    
+    This reverts commit 9a1ba5114a180c26c15e83a9d9b1f5a4dcf990bf.
+
+[33mcommit 9a1ba5114a180c26c15e83a9d9b1f5a4dcf990bf[m
+Author: Artur <akoczaja@gmail.com>
+Date:   Sat Dec 1 10:36:34 2018 +0100
+
+    Revert "piata zmiana"
+    
+    This reverts commit d2d9b1a1c06ac7aee8e71ac3d23fea2ab40d34f2.
+
+[33mcommit d2d9b1a1c06ac7aee8e71ac3d23fea2ab40d34f2[m
+Author: Artur <akoczaja@gmail.com>
+Date:   Sat Dec 1 10:24:17 2018 +0100
+
+    piata zmiana
+
+[33mcommit cd8129d19e646568cb0af33ca7012f8f9f0e5d95[m
+Author: Artur <akoczaja@gmail.com>
+Date:   Sat Dec 1 10:16:21 2018 +0100
+
+    zmiana4
+
+[33mcommit 410437f2f421867606d2107aea3d581f01eac7c0[m
+Author: Artur <akoczaja@gmail.com>
+Date:   Sat Dec 1 10:07:59 2018 +0100
+
+    zmiana3
+
+[33mcommit 3aef432cbf15bf6f405e7e8e8edbecafebe03cdd[m
+Author: Artur <akoczaja@gmail.com>
+Date:   Sat Dec 1 09:59:37 2018 +0100
+
+    zmiana2
